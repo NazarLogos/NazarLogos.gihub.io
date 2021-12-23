@@ -1,2 +1,2 @@
-# NazarLogos.gihub.io
+# nazarlogos.gihub.io
 The last project
